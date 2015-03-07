@@ -81,10 +81,9 @@
            <p> Gem Price: @{{ product.price | currency }} </p>
         <button ng-show="product.canPurchase">CHART</button>
         </div>
-
 </div>
 
-
+{{--komentar za branch testB--}}
 
 </body>
 </html>
