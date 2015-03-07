@@ -85,6 +85,7 @@
 
 {{--komentar za branch testB--}}
 {{--konfl master--}}
+
 {{--merging konflikti--}}
 
 {{--mmaster push change--}}
