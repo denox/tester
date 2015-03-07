@@ -88,11 +88,16 @@
 
 {{--merging konflikti--}}
 
+
 {{--mmaster push change hopet--}}
 
 {{--jos jedan master change --}}
 
 {{--jos jedan master  change zbog dr usr --}}
+{{--testB konflish push remote--}}
+{{--jos jedan testB change--}}
+{{--master change svrdlic--}}
+
 
 </body>
 </html>
