@@ -88,6 +88,7 @@
 
 {{--merging konflikti--}}
 
+{{-- novi kommit posle merge --}}
 
 {{--mmaster push change hopet--}}
 
@@ -98,10 +99,13 @@
 {{--jos jedan testB change--}}
 {{--master change svrdlic--}}
 
+{{-- novi kommit posle merge --}}
+{{-- novi kommit posle merge --}}
 
 
 {{-- denox master commits --}}
 {{--denox master commit --}}
+{{-- novi kommit posle merge --}}
 
 {{-- novi kommit posle merge --}}
 </body>
