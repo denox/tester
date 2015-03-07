@@ -101,6 +101,10 @@
 
 {{-- novi kommit posle merge --}}
 {{-- novi kommit posle merge --}}
+{{--svdlic_b change svrdlic--}}
+
+
+{{--svrdlic feature1 branch push--}}
 
 
 {{-- denox master commits --}}
