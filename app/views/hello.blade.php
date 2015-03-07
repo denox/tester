@@ -84,6 +84,6 @@
 </div>
 
 {{--komentar za branch testB--}}
-
+{{--merging konflikti--}}
 </body>
 </html>
