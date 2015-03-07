@@ -86,6 +86,6 @@
 {{--komentar za branch testB--}}
 {{--merging konflikti--}}
 {{--testB konflish push remote--}}
-
+{{--jos jedan testB change--}}
 </body>
 </html>
